@@ -1,0 +1,3 @@
+# OCR
+OCR for ENGLISH AND CHINESE
+There are two ways to distinguish with cnn-lstm or only cnn, but in this part, what we can do is just recognise words in a line...
